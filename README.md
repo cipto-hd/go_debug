@@ -1,4 +1,4 @@
-# Simple Go Debug Logger to a log file
+# Simple Go Debug Logger
 
 ## How to use (sample usage)
 
