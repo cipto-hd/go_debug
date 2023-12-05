@@ -25,3 +25,12 @@ func ErrorHandler() {
 
 	f.Close()
 }
+
+/*
+Just to print message to standard output
+ex: go_debug.Log("yes", "pilihanku nomor ", 1, "amin")
+*/
+
+func Log(v ...any) {
+	fmt.Println(v...)
+}
